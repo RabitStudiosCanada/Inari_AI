@@ -437,7 +437,7 @@ Before adding features, prefer adding a failing test or a reproducible evaluatio
 
 ## License
 
-SEE LISENCE FILE.
+SEE LICENSE FILE.
 
 ---
 
